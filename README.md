@@ -1,1 +1,1 @@
-# Datacamp_Project_Cleaning_Bank_Marketing_Campaign_Data
+# Datacamp Project: Cleaning Bank Marketing Campaign Data
